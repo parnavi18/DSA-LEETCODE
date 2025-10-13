@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0010-regular-expression-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
