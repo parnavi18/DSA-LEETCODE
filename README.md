@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,9 +53,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/parnavi18/DSA-LEETCODE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
