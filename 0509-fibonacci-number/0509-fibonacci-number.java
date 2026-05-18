@@ -1,20 +1,26 @@
+import java.util.Arrays;
+
 class Solution {
+    
     public int fib(int n) {
-        if(n==0){
-            return 0;
-        }else if (n==1){
-            return 1;
+        long[] dp = new long[n + 1];
+        Arrays.fill(dp, -1);
+
+        return (int) fibo(n, dp);
+    }
+
+    public static long fibo(int n, long[] dp) {
+
+        if (n <= 1) {
+            return n;
         }
 
-        int firstterm = 0;
-        int secondterm = 1;
-
-        for(int i=1;i<=n;i++){
-            int thirdterm = firstterm + secondterm;
-
-            firstterm = secondterm;
-            secondterm = thirdterm;
+        if (dp[n] != -1) {
+            return dp[n];
         }
-         return firstterm;
+
+        dp[n] = fibo(n - 1, dp) + fibo(n - 2, dp);
+
+        return dp[n];
     }
 }
